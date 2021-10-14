@@ -2,4 +2,4 @@
 
 Сетка выполнена на фреймворке bootstrap
 
-Открыть сайт: https://klimsupermachine.github.io/Site-adout_me/
+Открыть сайт: https://klimsupermachine.github.io/Cultural_news_bootstrap/
